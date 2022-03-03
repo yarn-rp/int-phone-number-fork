@@ -1780,6 +1780,37 @@ class Countries {
       }
     },
     {
+      "num_code": "531",
+      "alpha_2_code": "CW",
+      "alpha_3_code": "CUW",
+      "en_short_name": "Curacao",
+      "nationality": "Curacao",
+      "dial_code": "+599",
+      "nameTranslations": {
+        "sk": "Curacao",
+        "se": "Curacao",
+        "pl": "Curacao",
+        "no": "Curacao",
+        "ja": "Curacao",
+        "it": "Curacao",
+        "zh": "Curacao",
+        "nl": "Curacao",
+        "de": "Curacao",
+        "fr": "Curacao",
+        "es": "Curacao",
+        "en": "Curacao",
+        "pt_BR": "Curacao",
+        "sr-Cyrl": "Curacao",
+        "sr-Latn": "Curacao",
+        "zh_TW": "Curacao",
+        "tr": "Curacao",
+        "ro": "Curacao",
+        "ar": "Curacao",
+        "fa": "Curacao",
+        "yue": "Curacao"
+      }
+    },
+    {
       "num_code": "196",
       "alpha_2_code": "CY",
       "alpha_3_code": "CYP",
